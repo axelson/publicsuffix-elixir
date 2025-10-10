@@ -1,4 +1,16 @@
-# PublicSuffix
+# This project is archived
+
+> [!WARNING]
+>
+> Instead I'd recommend checking out the fork
+> https://github.com/reisub/public_sufx which is actively maintained, and is also available on hex.pm
+> as https://hex.pm/packages/public_sufx
+
+---
+
+Previous readme:
+
+## PublicSuffix
 
 `PublicSuffix` is an Elixir library to operate on domain names using
 the public suffix rules provided by https://publicsuffix.org/:
